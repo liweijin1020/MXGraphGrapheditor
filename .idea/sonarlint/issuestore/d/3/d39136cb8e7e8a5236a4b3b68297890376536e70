@@ -1,0 +1,40 @@
+
+hjavascript:S2814š"FRename "pts" as this name is already used in declaration at line 2855.(ø÷­‡øÿÿÿÿ
+kjavascript:S2814É"IRename "offset" as this name is already used in declaration at line 2198.(Ó°¼³øÿÿÿÿ
+Zjavascript:UnusedVariable¡"4Remove the declaration of the unused 'box' variable.(Ê²ÿ
+tjavascript:S1117¬"R"i" hides or potentially hides a variable declared in an outer scope at line 2462.(öŒšüÿÿÿÿ
+=javascript:S1116K"Remove this empty statement.(ôŸìúÿÿÿÿ
+ljavascript:S2814Á"JRename "handler" as this name is already used in declaration at line 2885.(¯ƒ¯úÿÿÿÿÿ
+qjavascript:S1117¸"T"elt" hides or potentially hides a variable declared in an outer scope at line 2453.(¦ÍõÜ
+ejavascript:S2259š"CTypeError can be thrown as "state" might be null or undefined here.(ø÷­‡øÿÿÿÿ
+ijavascript:S2589ë"LRefactor this code so that this expression does not always evaluate to true.(ö‘óİ
+hjavascript:S2814™"FRename "tmp" as this name is already used in declaration at line 2810.(åµ‘’øÿÿÿÿ
+gjavascript:S2814ª"ERename "p0" as this name is already used in declaration at line 2317.(ÃÚ±Åùÿÿÿÿ
+jjavascript:S2814Ÿ"HRename "state" as this name is already used in declaration at line 2315.(ö¼…Óúÿÿÿÿ
+sjavascript:S1117È"V"graph" hides or potentially hides a variable declared in an outer scope at line 2457.(ö±øª
+ijavascript:S2814‹"GRename "entry" as this name is already used in declaration at line 513.(Šñ‹şÿÿÿÿ
+Sjavascript:S1854¡"6Remove this useless assignment to local variable "box"(Ê²ÿ
+ujavascript:S1117‰"S"elt" hides or potentially hides a variable declared in an outer scope at line 607.(ÎØ˜ƒùÿÿÿÿ
+_javascript:S1854¥"=Remove this useless assignment to local variable "showTitles"(Íö—ßÿÿÿÿÿ
+xjavascript:S1117ª"V"title" hides or potentially hides a variable declared in an outer scope at line 3491.(­„Ö¶şÿÿÿÿ
+xjavascript:S1117İ"V"graph" hides or potentially hides a variable declared in an outer scope at line 2457.(ÆŒÓúÿÿÿÿ
+xjavascript:S1117°"V"graph" hides or potentially hides a variable declared in an outer scope at line 2457.(ÎŒ·“üÿÿÿÿ
+>javascript:S1116°"Remove this empty statement.(ôŸìúÿÿÿÿ
+gjavascript:S2814«"ERename "pe" as this name is already used in declaration at line 2318.(ò¤øøÿÿÿÿ
+cjavascript:S2814‘"FRename "tmp" as this name is already used in declaration at line 2166.(²ÄÛ÷
+fjavascript:S2814Ú"DRename "j" as this name is already used in declaration at line 1994.(Ø‡±ˆÿÿÿÿÿ
+tjavascript:S1117 "W"bounds" hides or potentially hides a variable declared in an outer scope at line 2453.(üÊâ
+cjavascript:S2814ù"GRename "elts" as this name is already used in declaration at line 2958.(–×”y
+bjavascript:S2814Ÿ"ERename "pe" as this name is already used in declaration at line 2866.(á€¿Ä
+sjavascript:S1117µ"V"graph" hides or potentially hides a variable declared in an outer scope at line 2457.(Ø¿Ş‘
+gjavascript:S2814’"ERename "ds" as this name is already used in declaration at line 1926.(ó¹¹÷ıÿÿÿÿ
+sjavascript:S1117¶"V"graph" hides or potentially hides a variable declared in an outer scope at line 2457.(…Öê¦
+tjavascript:S1117"R"i" hides or potentially hides a variable declared in an outer scope at line 2462.(öŒšüÿÿÿÿ
+cjavascript:S2814¶"FRename "bds" as this name is already used in declaration at line 2874.(Ğš­ê
+ojavascript:S1117‰"R"i" hides or potentially hides a variable declared in an outer scope at line 3551.(Ü™¶
+fjavascript:UnusedVariable¥";Remove the declaration of the unused 'showTitles' variable.(Íö—ßÿÿÿÿÿ
+tjavascript:S1117û"R"i" hides or potentially hides a variable declared in an outer scope at line 2462.(öŒšüÿÿÿÿ
+fjavascript:S2814û"DRename "i" as this name is already used in declaration at line 2960.(öŒšüÿÿÿÿ
+gjavascript:S2814"ERename "p0" as this name is already used in declaration at line 2859.(ÎŸ°“şÿÿÿÿ
+>javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+xjavascript:S1117Ó"V"graph" hides or potentially hides a variable declared in an outer scope at line 2457.(‚Ç¹şÿÿÿÿ

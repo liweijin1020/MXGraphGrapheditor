@@ -1,0 +1,22 @@
+
+>javascript:S1116‚
+"Remove this empty statement.(ôŸìúÿÿÿÿ
+}javascript:S2703"\Add the "let", "const" or "var" keyword to this declaration of "Editor" to make it explicit.(Ê’ƒ¯ûÿÿÿÿ
+tjavascript:S1117ÿ"R"f" hides or potentially hides a variable declared in an outer scope at line 1676.(ş²¥òùÿÿÿÿ
+ojavascript:S1117ë"R"ds" hides or potentially hides a variable declared in an outer scope at line 766.(¿¤ğ×
+>javascript:S1116û"Remove this empty statement.(ôŸìúÿÿÿÿ
+fjavascript:S2814‰"DRename "i" as this name is already used in declaration at line 2159.(Âãô«ûÿÿÿÿ
+ijavascript:S2814‡	"GRename "span" as this name is already used in declaration at line 1132.(Ü×Ú¶ÿÿÿÿÿ
+>javascript:S1116ñ"Remove this empty statement.(ôŸìúÿÿÿÿ
+Xjavascript:UnusedVariableä	"3Remove the declaration of the unused 'gb' variable.(×ÕØY
+\javascript:UnusedVariable†"6Remove the declaration of the unused 'model' variable.(Š¹†ô
+ujavascript:S1117ô"S"pos" hides or potentially hides a variable declared in an outer scope at line 815.(š—²ûøÿÿÿÿ
+€javascript:S2703¯"^Add the "let", "const" or "var" keyword to this declaration of "OpenFile" to make it explicit.(ü–¡æşÿÿÿÿ
+>javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+>javascript:S1116º"Remove this empty statement.(ôŸìúÿÿÿÿ
+ujavascript:S1117û	"X"preview" hides or potentially hides a variable declared in an outer scope at line 1224.(ğÑ­û
+ojavascript:S1117"R"i" hides or potentially hides a variable declared in an outer scope at line 1674.(Şı¥
+Ujavascript:S1854†"8Remove this useless assignment to local variable "model"(Š¹†ô
+ojavascript:S1117Ÿ"R"f" hides or potentially hides a variable declared in an outer scope at line 1676.(õøõ¿
+kjavascript:S2819â"IMake sure this cross-domain message is being sent to the intended domain.(É¾ú¸üÿÿÿÿ
+Qjavascript:S1854ä	"5Remove this useless assignment to local variable "gb"(×ÕØY

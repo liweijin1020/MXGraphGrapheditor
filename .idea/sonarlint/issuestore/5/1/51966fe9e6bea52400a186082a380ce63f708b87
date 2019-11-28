@@ -1,0 +1,40 @@
+
+['javascript:FunctionDefinitionInsideLoop’"'Define this function outside of a loop.(ªîËº
+bjavascript:S2259š"@TypeError can be thrown as "tr" might be null or undefined here.(‡öÛıÿÿÿÿ
+vjavascript:S1117D"U"table" hides or potentially hides a variable declared in an outer scope at line 175.(™ä£Áşÿÿÿÿ
+tjavascript:S1117ë"R"y" hides or potentially hides a variable declared in an outer scope at line 2008.(©ÎœŒşÿÿÿÿ
+tjavascript:S1117Æ"R"y" hides or potentially hides a variable declared in an outer scope at line 2177.(©ÎœŒşÿÿÿÿ
+tjavascript:S1117ë"R"x" hides or potentially hides a variable declared in an outer scope at line 2008.(©ÎœŒşÿÿÿÿ
+>javascript:S1116¦"Remove this empty statement.(ôŸìúÿÿÿÿ
+>javascript:S1116¢"Remove this empty statement.(ôŸìúÿÿÿÿ
+ajavascript:UnusedVariable¹"6Remove the declaration of the unused 'graph' variable.(å›¡Ìúÿÿÿÿ
+qjavascript:S1117Î"T"color" hides or potentially hides a variable declared in an outer scope at line 30.(í¬›å
+tjavascript:S1117Æ"R"x" hides or potentially hides a variable declared in an outer scope at line 2177.(©ÎœŒşÿÿÿÿ
+vjavascript:S1117N"U"table" hides or potentially hides a variable declared in an outer scope at line 175.(ÑßŒšıÿÿÿÿ
+tjavascript:S1117ü"R"y" hides or potentially hides a variable declared in an outer scope at line 2008.(–ƒ¨İøÿÿÿÿ
+rjavascript:S1117‚"U"menu" hides or potentially hides a variable declared in an outer scope at line 2306.(¡œ‰£
+xjavascript:S1117—"V"count" hides or potentially hides a variable declared in an outer scope at line 1525.(™˜–ïüÿÿÿÿ
+>javascript:S1116ƒ
+"Remove this empty statement.(ôŸìúÿÿÿÿ
+>javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+>javascript:S1116Ğ"Remove this empty statement.(ôŸìúÿÿÿÿ
+>javascript:S1116ë	"Remove this empty statement.(ôŸìúÿÿÿÿ
+>javascript:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+tjavascript:S1117×"R"y" hides or potentially hides a variable declared in an outer scope at line 2177.(–ƒ¨İøÿÿÿÿ
+xjavascript:S1117³"V"value" hides or potentially hides a variable declared in an outer scope at line 1507.(ƒÜ¹¯şÿÿÿÿ
+>javascript:S1116¢"Remove this empty statement.(ôŸìúÿÿÿÿ
+njavascript:S1117Ö"R"x" hides or potentially hides a variable declared in an outer scope at line 2177.(ı™„J
+>javascript:S1116¨"Remove this empty statement.(ôŸìúÿÿÿÿ
+rjavascript:S1117“"U"name" hides or potentially hides a variable declared in an outer scope at line 1530.(• ¥–
+>javascript:S1116Ê"Remove this empty statement.(ôŸìúÿÿÿÿ
+njavascript:S1117û"R"x" hides or potentially hides a variable declared in an outer scope at line 2008.(ı™„J
+Zjavascript:S1854¹"8Remove this useless assignment to local variable "graph"(å›¡Ìúÿÿÿÿ
+tjavascript:S1117Ù"R"i" hides or potentially hides a variable declared in an outer scope at line 1599.(Ë³·Çúÿÿÿÿ
+rjavascript:S1117œ"U"text" hides or potentially hides a variable declared in an outer scope at line 1626.(´©úø
+=javascript:S1116I"Remove this empty statement.(ôŸìúÿÿÿÿ
+sjavascript:S1117`"R"td" hides or potentially hides a variable declared in an outer scope at line 143.(ûŠõüùÿÿÿÿ
+>javascript:S1116¿"Remove this empty statement.(˜„·Áúÿÿÿÿ
+fjavascript:S2814ã"DRename "i" as this name is already used in declaration at line 1599.(±şÑ›ÿÿÿÿÿ
+wjavascript:S1117ú"U"text" hides or potentially hides a variable declared in an outer scope at line 1626.(²¥Òˆüÿÿÿÿ
+xjavascript:S1117œ"V"label" hides or potentially hides a variable declared in an outer scope at line 2713.(æÓõ¾ÿÿÿÿÿ
+wjavascript:S1117"U"ldiv" hides or potentially hides a variable declared in an outer scope at line 2222.(Õùœ‰şÿÿÿÿ

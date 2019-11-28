@@ -1,0 +1,39 @@
+
+sjavascript:S1117‡"V"color" hides or potentially hides a variable declared in an outer scope at line 3456.(ïã’Ş
+bjavascript:S2814ß"ERename "key" as this name is already used in declaration at line 571.(¼ÿ¼í
+sjavascript:S1117´"Q"j" hides or potentially hides a variable declared in an outer scope at line 514.(§Ô€¿şÿÿÿÿ
+ejavascript:S2814İ"CRename "j" as this name is already used in declaration at line 543.(øµĞƒıÿÿÿÿ
+cjavascript:S2814Ù"FRename "edge" as this name is already used in declaration at line 539.(œµ’­
+>javascript:S1116È"Remove this empty statement.(ôŸìúÿÿÿÿ
+bjavascript:S2814Æ"ERename "key" as this name is already used in declaration at line 434.(´³Ë¹
+sjavascript:S1117¿"Q"i" hides or potentially hides a variable declared in an outer scope at line 512.(‚™Ëûüÿÿÿÿ
+>javascript:S1116ş"Remove this empty statement.(ôŸìúÿÿÿÿ
+fjavascript:S2814ú!"DRename "i" as this name is already used in declaration at line 4333.(ãí­»ûÿÿÿÿ
+Ujavascript:S1854Î"8Remove this useless assignment to local variable "state"(Æ›¬—
+Rjavascript:S1854Ó "5Remove this useless assignment to local variable "ui"(˜”¿™
+^javascript:UnusedVariable›"3Remove the declaration of the unused 'tx' variable.(ô½“¥şÿÿÿÿ
+javascript:S2692•"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(Éò“
+}javascript:S2703÷"`Add the "let", "const" or "var" keyword to this declaration of "fadeThead2" to make it explicit.(¥ÃÁÁ
+fjavascript:S2814—"IRename "bounds" as this name is already used in declaration at line 2548.(ßÌïŸ
+ejavascript:S2814´"CRename "j" as this name is already used in declaration at line 543.(§Ô€¿şÿÿÿÿ
+fjavascript:S2814Ú"IRename "current" as this name is already used in declaration at line 540.(µ“»
+ejavascript:S2814©"CRename "i" as this name is already used in declaration at line 661.(íÅÕÂøÿÿÿÿ
+javascript:S2703ñ"_Add the "let", "const" or "var" keyword to this declaration of "fadeThead" to make it explicit.(¿Ë¼şÿÿÿÿ
+sjavascript:S1117İ"Q"j" hides or potentially hides a variable declared in an outer scope at line 514.(øµĞƒıÿÿÿÿ
+javascript:S2703"^Add the "let", "const" or "var" keyword to this declaration of "EditorUi" to make it explicit.(´£Õ©ûÿÿÿÿ
+\javascript:UnusedVariableÎ"6Remove the declaration of the unused 'state' variable.(Æ›¬—
+Yjavascript:UnusedVariableÓ "3Remove the declaration of the unused 'ui' variable.(˜”¿™
+Wjavascript:S1854›"5Remove this useless assignment to local variable "tx"(ô½“¥şÿÿÿÿ
+sjavascript:S1117©"Q"i" hides or potentially hides a variable declared in an outer scope at line 512.(íÅÕÂøÿÿÿÿ
+hjavascript:S2814ô"FRename "tmp" as this name is already used in declaration at line 2660.(´ë–üûÿÿÿÿ
+Wjavascript:S1854œ"5Remove this useless assignment to local variable "ty"(ùéÉğşÿÿÿÿ
+njavascript:S1117Ÿ"Q"j" hides or potentially hides a variable declared in an outer scope at line 514.(ÈÁšû
+ejavascript:S2814ˆ"CRename "i" as this name is already used in declaration at line 512.(¶éÕüÿÿÿÿ
+ajavascript:S2814·"DRename "i" as this name is already used in declaration at line 2843.(×‡…
+cjavascript:S2814ì"FRename "tmp" as this name is already used in declaration at line 2660.(œ•ú€
+njavascript:S1117•"Q"i" hides or potentially hides a variable declared in an outer scope at line 512.(š®ÜŒ
+>javascript:S1116÷"Remove this empty statement.(ôŸìúÿÿÿÿ
+^javascript:UnusedVariableœ"3Remove the declaration of the unused 'ty' variable.(ùéÉğşÿÿÿÿ
+njavascript:S1117Œ"Q"i" hides or potentially hides a variable declared in an outer scope at line 512.(°“ƒ
+njavascript:S1117«"Q"i" hides or potentially hides a variable declared in an outer scope at line 512.(š®ÜŒ
+fjavascript:S2814…"IRename "bounds" as this name is already used in declaration at line 2548.(ßÌïŸ

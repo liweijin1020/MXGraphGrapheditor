@@ -1,0 +1,79 @@
+
+ajavascript:S2814§2"DRename "i" as this name is already used in declaration at line 6411.(š®ÜŒ
+rjavascript:S1117”"U"model" hides or potentially hides a variable declared in an outer scope at line 141.(Š×µ
+8javascript:S1116â"Remove this empty statement.(Úœ,
+>javascript:S11169"Remove this empty statement.(ôŸìúÿÿÿÿ
+javascript:S2703¢;"qAdd the "let", "const" or "var" keyword to this declaration of "mxCellEditorGetInitialValue" to make it explicit.(·¢ÀŸ
+}javascript:S2703¤"[Add the "let", "const" or "var" keyword to this declaration of "match" to make it explicit.(ÂîÓÂúÿÿÿÿ
+fjavascript:S2814¶0"DRename "i" as this name is already used in declaration at line 6184.(­Í„Ÿşÿÿÿÿ
+>javascript:S1116²9"Remove this empty statement.(ôŸìúÿÿÿÿ
+fjavascript:S2814ª"DRename "i" as this name is already used in declaration at line 3089.(±şÑ›ÿÿÿÿÿ
+Rjavascript:S1854Ç"5Remove this useless assignment to local variable "pt"(°¹Ã
+>javascript:S1116¸6"Remove this empty statement.(ôŸìúÿÿÿÿ
+`javascript:UnusedVariableì":Remove the declaration of the unused 'mouseDown' variable.(è‚
+pjavascript:S1117ß7"T"sel" hides or potentially hides a variable declared in an outer scope at line 7168.(êö˜+
+>javascript:S1116¼ "Remove this empty statement.(ôŸìúÿÿÿÿ
+Ujavascript:S1854Û,"8Remove this useless assignment to local variable "model"(Š×µ
+=javascript:S1116 "Remove this empty statement.(ôŸìúÿÿÿÿ
+hjavascript:S2814–("FRename "tmp" as this name is already used in declaration at line 5120.(ç¨Ëİşÿÿÿÿ
+Yjavascript:UnusedVariableÇ"3Remove the declaration of the unused 'pt' variable.(°¹Ã
+fjavascript:S2814ÿ!"DRename "f" as this name is already used in declaration at line 4287.(ØæË­ùÿÿÿÿ
+hjavascript:S2814ã)"FRename "geo" as this name is already used in declaration at line 5310.(‹â½ÿÿÿÿÿ
+jjavascript:S2814â?"HRename "cells" as this name is already used in declaration at line 8153.(–òÖµùÿÿÿÿ
+ajavascript:S2814Ó1"DRename "i" as this name is already used in declaration at line 6319.(¤¨¬Ú
+njavascript:S2589ô"LRefactor this code so that this expression does not always evaluate to true.(ë·òÒøÿÿÿÿ
+gjavascript:S2814ˆ"ERename "pts" as this name is already used in declaration at line 296.(ø÷­‡øÿÿÿÿ
+cjavascript:S2814ì0"FRename "tmp" as this name is already used in declaration at line 6230.(´ë²Ò
+>javascript:S1116½<"Remove this empty statement.(ôŸìúÿÿÿÿ
+ejavascript:S2814Ø"HRename "index" as this name is already used in declaration at line 2509.(èÿÀ 
+>javascript:S1116Í<"Remove this empty statement.(ôŸìúÿÿÿÿ
+djavascript:S2814°:"GRename "size" as this name is already used in declaration at line 7439.(›àº»
+Sjavascript:S1854î$"6Remove this useless assignment to local variable "req"(ß™–ß
+[javascript:S1854¬<"9Remove this useless assignment to local variable "target"(àËÕšúÿÿÿÿ
+|javascript:S2703Ù*"ZAdd the "let", "const" or "var" keyword to this declaration of "attr" to make it explicit.(”õûˆşÿÿÿÿ
+cjavascript:S2814Í""FRename "cos" as this name is already used in declaration at line 4416.(¦ä²Š
+djavascript:S2814õ!"GRename "dist" as this name is already used in declaration at line 4319.(´Ö‰™
+djavascript:S2814™5"HRename "range" as this name is already used in declaration at line 6798.(„šB
+“javascript:S2703¸;"qAdd the "let", "const" or "var" keyword to this declaration of "mxCellEditorGetCurrentValue" to make it explicit.(·›àŠùÿÿÿÿ
+ejavascript:S2814á"HRename "index" as this name is already used in declaration at line 2509.(¯»ª
+djavascript:S2814€"GRename "state" as this name is already used in declaration at line 261.(—†÷•
+vjavascript:S1117…5"T"sel" hides or potentially hides a variable declared in an outer scope at line 7168.(šõ¹…ıÿÿÿÿ
+pjavascript:S1117Â4"T"sel" hides or potentially hides a variable declared in an outer scope at line 7168.(êö˜+
+Tjavascript:S1854ò6"7Remove this useless assignment to local variable "cell"(Æ¼°ì
+fjavascript:S2814¥:"JRename "content" as this name is already used in declaration at line 7428.(Ç“w
+gjavascript:S2814ó!"ERename "dx" as this name is already used in declaration at line 4317.(£’é¡ùÿÿÿÿ
+\javascript:UnusedVariableì"6Remove the declaration of the unused 'model' variable.(Ô¹ß
+vjavascript:S2703€8"YAdd the "let", "const" or "var" keyword to this declaration of "sel" to make it explicit.(ØÉ‚Œ
+bjavascript:S2814›!"ERename "pt" as this name is already used in declaration at line 4204.(§Ò¸¦
+hjavascript:S2814¶"FRename "geo" as this name is already used in declaration at line 2462.(‹ È–øÿÿÿÿ
+Zjavascript:UnusedVariableî$"4Remove the declaration of the unused 'req' variable.(ß™–ß
+ijavascript:S2589ş"LRefactor this code so that this expression does not always evaluate to true.(ÂÕ“§
+ajavascript:S2814•!"DRename "j" as this name is already used in declaration at line 4187.(Å”
+fjavascript:S2814‘2"DRename "i" as this name is already used in declaration at line 6411.(·ïøàûÿÿÿÿ
+}javascript:S2703"[Add the "let", "const" or "var" keyword to this declaration of "Graph" to make it explicit.(¾øÍúÿÿÿÿ
+hjavascript:S2814Î""FRename "sin" as this name is already used in declaration at line 4417.(ÚºáŞıÿÿÿÿ
+bjavascript:S2814Œ"ERename "box" as this name is already used in declaration at line 308.(ò…ãğ
+njavascript:S2589ûB"LRefactor this code so that this expression does not always evaluate to true.(çèËœÿÿÿÿÿ
+>javascript:S1116Ø9"Remove this empty statement.(ôŸìúÿÿÿÿ
+Qjavascript:S1854¿!"4Remove this useless assignment to local variable "f"(¥ÈûÓ
+djavascript:S2814û?"GRename "rect" as this name is already used in declaration at line 8152.(ãÇæ™
+\javascript:UnusedVariableÛ,"6Remove the declaration of the unused 'model' variable.(Š×µ
+hjavascript:S2589ö9"LRefactor this code so that this expression does not always evaluate to true.(¶§Ø
+ajavascript:S2259ù!"?TypeError can be thrown as "n" might be null or undefined here.(ÿœ¤øùÿÿÿÿ
+fjavascript:S2814æ0"DRename "i" as this name is already used in declaration at line 6233.(óéËŒøÿÿÿÿ
+`javascript:S2814±5"DRename "i" as this name is already used in declaration at line 6825.(äÓY
+ajavascript:S2814Ü+"DRename "i" as this name is already used in declaration at line 5577.(ÂÇÁä
+tjavascript:S1117Ÿ3"R"h" hides or potentially hides a variable declared in an outer scope at line 6533.(§Âíìüÿÿÿÿ
+tjavascript:S1117Ÿ3"R"w" hides or potentially hides a variable declared in an outer scope at line 6532.(§Âíìüÿÿÿÿ
+>javascript:S1116á"Remove this empty statement.(ôŸìúÿÿÿÿ
+fjavascript:S1854æ"IRemove this useless assignment to local variable "getCursorForMouseEvent"(ÍçîÂ
+Ujavascript:S1854ì"8Remove this useless assignment to local variable "model"(Ô¹ß
+}javascript:S2703õ"`Add the "let", "const" or "var" keyword to this declaration of "HoverIcons" to make it explicit.(¥Âı‚
+qjavascript:S1117î$"T"req" hides or potentially hides a variable declared in an outer scope at line 4718.(ß™–ß
+qjavascript:S1117÷5"T"sel" hides or potentially hides a variable declared in an outer scope at line 7168.(ĞîÈ«
+mjavascript:UnusedVariableæ"GRemove the declaration of the unused 'getCursorForMouseEvent' variable.(ÍçîÂ
+ajavascript:S2814Ñ+"DRename "i" as this name is already used in declaration at line 5577.(š®ÜŒ
+jjavascript:S2814â:"HRename "state" as this name is already used in declaration at line 7518.(÷éÒ‰øÿÿÿÿ
+tjavascript:S1117¡3"R"s" hides or potentially hides a variable declared in an outer scope at line 6531.(Ãöä²ùÿÿÿÿ
+bjavascript:S2814ô!"ERename "dy" as this name is already used in declaration at line 4318.(¦÷İì
+€javascript:S2703Œ6"^Add the "let", "const" or "var" keyword to this declaration of "lastNode" to make it explicit.(ñ¼·şÿÿÿÿ
